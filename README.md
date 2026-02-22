@@ -66,6 +66,6 @@ Ejecuta el docker-compose
 Escribe en tu navegador para poder usar la API:
 http://localhost:puerto/docs
 ## EXTRA
-Es necesario crear un departamento promero para poder crear un empleado
+Es necesario crear un departamento primero para poder crear un empleado
 - Para ver los empleados: http://localhost:puerto/empleados
 - Para ver los departamentos: http://localhost:puerto/departamentos
